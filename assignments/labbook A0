@@ -1,1 +1,50 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Do not alter this block (unless you're familiar with LaTeX)
+\documentclass{../labbook}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Fill in the appropriate information below
+\lhead{Youyang Cai}
+\rhead{Speech Sounds} 
+\chead{\textbf{Lab Book A2  Due: 18.09.2023 23:59 CEST}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\begin{document}
+
+\begin{mdframed}[backgroundcolor=blue!20]
+\LaTeX ~submissions are mandatory. Submitting your assignment in another format will be graded no higher than R. Convenient table for the TIPA package used to processing IPA symbols can be found \href{https://jon.dehdari.org/tutorials/tipachart_mod.pdf}{here}. Detailed TIPA manual can be found \href{http://www.l.u-tokyo.ac.jp/~fkr/tipa/tipaman.pdf}{here}.
+\end{mdframed}
+
+\tableofcontents %Automatic table of contents
+
+\section{Lab Book A2. }
+In the Lab Book A2 we deal with transcribing speech. 
+
+\begin{problem}{1}
+\textbf{[2]} \textit{IPA to text}: Write down in orthographic notation the sentence  that is pronounced below (it is a transcription of a speaker with a fairly neutral variety of American English):
+
+\textipa{"pAnini w@z @n "\t{ei}n\t{tS}@nt "Indi@n g\*r@"me\*ri@n (@"p\*rAks@m@tli "fIfT "sEn\t{tS}@\*ri ""bi"si) hu Iz ""m\t{oU}st "f\t{eI}m@s f\textrhookschwa~"fo\*rmj@""l\t{eI}RiN "fo\*r "T\t{aU}z@nd "\*rulz @v "s\ae nsk\*rIt mo\*r"fAl@\t{dZ}i.}
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+Panini was an ancient Indian grammarian (approximately fifth century BC) who is most famous for formulating four thousand rules of Sanscrit morphology.
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{problem}{2}
+\textbf{[4]} \textit{Sound to IPA}: Transcribe the recording of ``and maybe a snack for her brother Bob" from the ``Stella passage''. The recording that you need to transcribe can be found \href{https://drive.google.com/file/d/16fmkXCrlayT1Flpha4BS-S8ED8dwV61w/view?usp=sharing}{here}. Provide a narrow phonetic transcription, but do not go into many details and don't use diacritics (unless you really want to). Listen carefully to how the speaker produces vowels and consonants. If you are in doubt, you may provide alternative transcription of a certain word that also feels right to you, but do it on a separate line. 
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+[\textipa{\ae n me\i bi  @  sn\ae k  f6\*r  @  b\*r6D@r  bob} (or \textipa{bOb})]
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}{3}
+\textbf{[4]} \textit{Sound to IPA}: Listen carefully to another recording \href{https://drive.google.com/file/d/1YI6uoBzU_VhTnzGgkGsEjSM5zuPkD38H/view?usp=sharing}{here} of the same phrase ``and maybe a snack for her brother Bob" from the ``Stella passage". Note at least four phonetic differences between this recording and the recording from Assignment 2 in this lab book. 
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+[\textipa{@n  meibi  @  sn\ae \  fOr  h@r  b\*r6T@r b6b}]
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
